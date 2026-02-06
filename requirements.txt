@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+openpyxl  # if you read/write Excel files
+plotly    # optional, for interactive plots
