@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📱 App User Behavior Segmentation Using Unsupervised Learning
 📌 Project Overview
 
@@ -95,3 +96,7 @@ Optimize product features
 Make informed, data-driven decisions
 
 Overall, this project bridges the gap between technical data analysis and real-world business impact, showcasing the practical application of data science in customer analytics and strategic planning.
+=======
+# App_User_Behavior_Segmentation
+This project performs user behavior segmentation for a mobile app using Python and data analytics techniques. The goal is to cluster users based on activity patterns, engagement, and demographics, enabling targeted marketing and personalized user strategies.
+>>>>>>> aed0cdb558eba56a6e0a5fa58938a4f5c432b449
